@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @morteza-giti
 - 👀 I’m interested in web, mobile and desktop development.
-- 🌱 I’m currently learning Blockchain development and DDD.
+- 🌱 I’m currently learning workin on DDD and Software Architecture Principles.
 - 📫 You can reach me via mortezagiti1990@gmail.com.
 
 <!---
